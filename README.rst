@@ -12,6 +12,6 @@ Rubrik 2
 ===============
 
 Lite shell kommandon
-```
-rm -rf /
-```
+Lite kod::
+    rm -rf /
+
